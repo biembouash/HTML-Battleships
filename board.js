@@ -12,4 +12,3 @@ board += "</table>";
 let doc = document.getElementById("board");
 doc.innerHTML = board;
 
-document.getElementById("66").setAttribute("class", "hit");
